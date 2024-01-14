@@ -28,5 +28,5 @@
 5. By Adding Plan in to cart and Then Go to Checkout
 6. where Add some address and select address and Payment method
 7. And Place Order
-8. Then Go to Registration Form and Create Account As User As Per Subscribed Plan
+8. Then Go to Registration Form and Create Number Of Account As User As Per Subscribed Plan
 9. Then Login as User and go to Landing Page   
