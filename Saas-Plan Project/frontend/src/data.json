@@ -1,0 +1,13 @@
+{
+  "plans": [
+    {
+      "planName": "premium",
+      "price": 0,
+      "duration": "",
+      "maxUsers": 0,
+      "features": "",
+      "_id": 1
+    }
+  ],
+  "auth": []
+}

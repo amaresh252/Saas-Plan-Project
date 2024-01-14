@@ -1,0 +1,20 @@
+
+.landing-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0; 
+  }
+  
+  h1 {
+    color: #007bff;
+    margin-bottom: 20px;
+  }
+  
+  .sub-heading {
+    color: #ff0000; 
+    font-style: italic;
+  }
+  
